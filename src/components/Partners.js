@@ -4,7 +4,7 @@ const Partners = () => {
   return (
     <div>
       <h1 className="font-bold text-center text-xl">Our Partners</h1>
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center flex-wrap">
         <img
           src="https://www.androidheadlines.com/wp-content/uploads/2018/10/Google-black-and-white-1-600x400.jpeg"
           className="h-16 w-100"

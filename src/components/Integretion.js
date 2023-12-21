@@ -55,7 +55,7 @@ const Integretion = () => {
         </div>
       </div>
 
-      <div className="flex justify-between my-10">
+      <div className="flex justify-between my-10 flex-wrap">
         <div className="card w-96 bg-base-100 shadow-xl">
           <div className="card-body">
             <div className="flex justify-between">

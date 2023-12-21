@@ -42,7 +42,7 @@ const nav = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">Saas Landing</a>
+        <a className="text-xl font-bold">Saas Landing</a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
